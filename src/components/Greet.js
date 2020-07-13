@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const fname = "harrison";
 const lname = "seaborn";
-
+//change
 const Greet = (props) => {
   // takes data => returns elements
   const [count, setCount] = useState(0); // useState returns an array
